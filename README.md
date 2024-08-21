@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/iam-AadarshSingh/iam-AadarshSingh/blob/main/iam-aadarshSingh.jpg" class="rounded-circle"/>
-</p>
 <h1 align="center">Hello Ladies and Gentlemen, Aadarsh Singh here.</h1>
 <li>👨‍💻 Love to learn new technologies and to travel to new places.</li>
 <li>👨‍🏫 Mentor on @Udemy</li>
