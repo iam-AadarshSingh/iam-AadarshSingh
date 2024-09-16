@@ -36,6 +36,13 @@
 <h2>Database</h2>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
+<h2>Hosting</h2>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+
  
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iam-aadarshSingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
