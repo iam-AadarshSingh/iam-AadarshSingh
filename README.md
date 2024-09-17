@@ -47,11 +47,11 @@
  
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iam-aadarshSingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
-<h2>📝 My Github Stats</h2>
+<!--<h2>📝 My Github Stats</h2>
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-aadarshSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=iam-aadarshSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=iam-aadarshSingh&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=iam-aadarshSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iam-aadarshSingh&theme=dark&hide_border=false)-->
 
 <h2>📧 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/hi-aadarshsingh/" target="_blank">
