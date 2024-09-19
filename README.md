@@ -1,6 +1,6 @@
 <h1 align="center">Hello Ladies and Gentlemen, Aadarsh Singh here.</h1>
 <li>👨‍💻 Love to learn new technologies and to travel to new places.</li>
-<li>👨‍🏫 Mentor on @Udemy</li>
+<!--<li>👨‍🏫 Mentor on @Udemy</li>-->
 <li>🚀 Passionate About Learning and Teaching</li>
 <li>📘 I’m Currently Studying MERN and Data Analytics</li>
 <li>👯 I’m looking to collaborate on MERN Projects</li>
