@@ -45,7 +45,17 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  
 
 
- 
+
+
+<!---------------Data Analytics Section--------------->
+<h1 align="center"> 📊 Data Analytics</h1>
+
+ ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+ ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iam-aadarshSingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 <!--<h2>📝 My Github Stats</h2>
